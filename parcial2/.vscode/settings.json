@@ -1,0 +1,11 @@
+{
+  "editor.wordWrap": "on",
+  "workbench.quickOpen.preserveInput": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true,
+  },
+  "terminal.integrated.commandsToSkipShell": [
+    "editor.action.quickFix                                    "
+  ],
+}
